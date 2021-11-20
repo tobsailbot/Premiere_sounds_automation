@@ -1,4 +1,4 @@
-# Premiere_sounds_automation
+# Premiere_Pro_sounds_automation
 
 Premiere Pro add sounds automatically
 
