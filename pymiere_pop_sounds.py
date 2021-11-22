@@ -1,5 +1,6 @@
 import pymiere
 import  random
+import os
 
 
 cursorPos = pymiere.objects.app.project.sequences[0].getPlayerPosition()
